@@ -8,7 +8,7 @@
                 "CentralUS",
                 "FranceCentral"
             ],
-            "defaultValue": "FranceCentral",
+            "defaultValue": "CentralUS",
             "metadata": {
                 "description": "Location for the VM, only certain regions support Availability Zones"
             }
